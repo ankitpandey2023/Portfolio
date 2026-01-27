@@ -179,7 +179,7 @@ const build = (site) => ({
                     {
                         label: "GitHub",
                         icon: "fa-brands fa-github",
-                        href: "https://github.com/ankitpandey2708",
+                        href: "https://github.com/ankitpandey2023",
                     },
                 ],
             },
@@ -203,7 +203,7 @@ const build = (site) => ({
                     {
                         label: "GitHub",
                         icon: "fa-brands fa-github",
-                        href: "https://github.com/ankitpandey2708",
+                        href: "https://github.com/ankitpandey2023",
                     },
                 ],
             },
@@ -227,7 +227,7 @@ const build = (site) => ({
                     {
                         label: "GitHub",
                         icon: "fa-brands fa-github",
-                        href: "https://github.com/ankitpandey2708",
+                        href: "https://github.com/ankitpandey2023",
                     },
                 ],
             },
@@ -251,7 +251,7 @@ const build = (site) => ({
                     {
                         label: "GitHub",
                         icon: "fa-brands fa-github",
-                        href: "https://github.com/ankitpandey2708",
+                        href: "https://github.com/ankitpandey2023",
                     },
                 ],
             },
@@ -262,7 +262,7 @@ const build = (site) => ({
 /* ---------------- i18n (EN/HI) ---------------- */
 const dict = {
     en: {
-        brandSub: "Full-Stack Dev",
+        brandSub: "WordPress Developer",
         navHome: "Home",
         navAbout: "About",
         navSkills: "Skills",
@@ -272,41 +272,41 @@ const dict = {
         drawerTitle: "Quick Nav",
         drawerTipTitle: "Pro Tip",
         drawerTipText: "Tap a project card to open the case-study modal.",
-        heroPill: "Available for freelance + product builds",
+        heroPill: "Available for WordPress Development + Backend Solutions",
         heroHi: "Hi, I'm",
         heroSub:
-            "I build fast, premium web apps - clean UI, sharp UX, and reliable backend. Obsessed with performance & polish.",
+            "Backend-focused WordPress Developer specializing in custom themes, plugins, and automation. Expert in PHP, REST APIs, and scalable systems with strong IT infrastructure knowledge.",
         ctaProjects: "Explore Projects",
         ctaCopyEmail: "Copy Email",
         ctaTalk: "Let's Talk",
-        metaTitle1: "Performance",
-        metaText1: "Core Web Vitals focused builds",
+        metaTitle1: "Backend Focused",
+        metaText1: "Custom WordPress themes & plugins",
         metaTitle2: "Security",
-        metaText2: "Auth, RBAC, secure patterns",
-        metaTitle3: "Design",
-        metaText3: "Micro-interactions + crisp UI",
-        profileRole: "Full-Stack • MERN • UI Engineering",
-        stat1: "Projects shipped",
-        stat2: "Years building",
-        stat3: "Clients helped",
-        mini1: "MERN apps + dashboards",
-        mini2: "Payments, auth, admin panels",
-        mini3: "Performance + clean architecture",
+        metaText2: "Cybersecurity & secure systems",
+        metaTitle3: "Automation",
+        metaText3: "CRM integrations + web automation",
+        profileRole: "WordPress • PHP • Backend Automation",
+        stat1: "Sites automated",
+        stat2: "Years experience",
+        stat3: "Projects delivered",
+        mini1: "Custom themes & plugins",
+        mini2: "CRM integration & automation",
+        mini3: "Multisite & backend systems",
         hireBtn: "Hire Me",
         resumeBtn: "Resume",
         hintText: "Hover cards - subtle tilt + glow. Tap projects for details.",
         scrollDown: "Scroll",
         aboutKicker: "About",
-        aboutTitle: "Engineering with taste",
+        aboutTitle: "Backend-focused WordPress expertise",
         aboutLead:
-            "I love building products that feel expensive: crisp typography, strong spacing, meaningful motion, and robust code.",
-        aboutCard1T: "Product mindset",
+            "Building secure, scalable WordPress solutions with strong backend logic, custom integrations, and IT infrastructure knowledge.",
+        aboutCard1T: "WordPress specialist",
         aboutCard1D:
-            "I don't just 'code screens'. I ship flows: onboarding, auth, payments, admin, edge-cases.",
-        aboutMini1: "Clean UX",
-        aboutMini2: "Fast UI",
-        aboutMini3: "Maintainable",
-        aboutCard2T: "Stack comfort",
+            "Expert in custom theme & plugin development, multisite setups, and backend automation across 250+ sites with CRM integrations.",
+        aboutMini1: "Custom Themes",
+        aboutMini2: "Plugins",
+        aboutMini3: "Automation",
+        aboutCard2T: "Tech stack",
         codeTitle: "Today's build philosophy",
         copySnippet: "Copy snippet",
         skillsKicker: "Skills",
@@ -330,9 +330,9 @@ const dict = {
             "This demo form shows a success toast (no backend). Copy email quickly.",
         contactCardT: "Details",
         locLabel: "Location",
-        locVal: "Bengaluru, India",
+        locVal: "Lucknow, India",
         linksLabel: "Links",
-        avail: "Open for: MVPs, dashboards, e-commerce, automation.",
+        avail: "Open for: WordPress sites, custom plugins, CRM integrations, automation.",
         formT: "Send a message",
         fName: "Name",
         fEmail: "Email",
@@ -343,7 +343,7 @@ const dict = {
         backTop: "Top",
     },
     hi: {
-        brandSub: "Full-Stack Dev",
+        brandSub: "WordPress Developer",
         navHome: "Home",
         navAbout: "About",
         navSkills: "Skills",
@@ -354,42 +354,42 @@ const dict = {
         drawerTipTitle: "Pro Tip",
         drawerTipText:
             "Project card pe tap karo - case-study modal khul jayega.",
-        heroPill: "Freelance + product builds ke liye available",
+        heroPill: "WordPress Development + Backend Solutions ke liye available",
         heroHi: "Hi, main hoon",
         heroSub:
-            "Main fast, premium web apps banata hoon - clean UI, sharp UX, aur reliable backend. Performance + polish mera obsession hai.",
+            "Backend-focused WordPress Developer hoon jo custom themes, plugins, aur automation mein expert hoon. PHP, REST APIs, aur scalable systems mein mahir hoon.",
         ctaProjects: "Projects Dekho",
         ctaCopyEmail: "Email Copy",
         ctaTalk: "Baat Karein",
-        metaTitle1: "Performance",
-        metaText1: "Core Web Vitals focused builds",
+        metaTitle1: "Backend Focused",
+        metaText1: "Custom WordPress themes & plugins",
         metaTitle2: "Security",
-        metaText2: "Auth, RBAC, secure patterns",
-        metaTitle3: "Design",
-        metaText3: "Micro-interactions + crisp UI",
-        profileRole: "Full-Stack • MERN • UI Engineering",
-        stat1: "Projects shipped",
-        stat2: "Years building",
-        stat3: "Clients helped",
-        mini1: "MERN apps + dashboards",
-        mini2: "Payments, auth, admin panels",
-        mini3: "Performance + clean architecture",
+        metaText2: "Cybersecurity aur secure systems",
+        metaTitle3: "Automation",
+        metaText3: "CRM integrations + web automation",
+        profileRole: "WordPress • PHP • Backend Automation",
+        stat1: "Sites automated",
+        stat2: "Years experience",
+        stat3: "Projects delivered",
+        mini1: "Custom themes & plugins",
+        mini2: "CRM integration & automation",
+        mini3: "Multisite & backend systems",
         hireBtn: "Hire Me",
         resumeBtn: "Resume",
         hintText:
             "Cards hover karo - subtle tilt + glow. Projects tap karo for details.",
         scrollDown: "Scroll",
         aboutKicker: "About",
-        aboutTitle: "Engineering with taste",
+        aboutTitle: "Backend-focused WordPress expertise",
         aboutLead:
-            "Mujhe aise products banana pasand hai jo ‘expensive' feel karein: typography, spacing, motion, aur robust code.",
-        aboutCard1T: "Product mindset",
+            "Secure aur scalable WordPress solutions banata hoon with strong backend logic, custom integrations, aur IT infrastructure knowledge.",
+        aboutCard1T: "WordPress specialist",
         aboutCard1D:
-            "Main sirf 'screens' nahi banata. Main flows ship karta hoon: onboarding, auth, payments, admin, edge-cases.",
-        aboutMini1: "Clean UX",
-        aboutMini2: "Fast UI",
-        aboutMini3: "Maintainable",
-        aboutCard2T: "Stack comfort",
+            "Custom theme & plugin development, multisite setups, aur 250+ sites pe backend automation mein expert hoon.",
+        aboutMini1: "Custom Themes",
+        aboutMini2: "Plugins",
+        aboutMini3: "Automation",
+        aboutCard2T: "Tech stack",
         codeTitle: "Aaj ka build philosophy",
         copySnippet: "Copy snippet",
         skillsKicker: "Skills",
@@ -413,9 +413,9 @@ const dict = {
             "Yeh demo form toast dikhata hai (backend nahi). Email quickly copy karo.",
         contactCardT: "Details",
         locLabel: "Location",
-        locVal: "Bengaluru, India",
+        locVal: "Lucknow, India",
         linksLabel: "Links",
-        avail: "Open for: MVPs, dashboards, e-commerce, automation.",
+        avail: "Open for: WordPress sites, custom plugins, CRM integrations, automation.",
         formT: "Message bhejo",
         fName: "Name",
         fEmail: "Email",
@@ -827,10 +827,38 @@ $("#copySnippet").addEventListener("click", async () => {
 });
 
 /* ---------------- Form ---------------- */
-$("#contactForm").addEventListener("submit", (e) => {
+$("#contactForm").addEventListener("submit", async (e) => {
     e.preventDefault();
-    toast("Sent", "Message queued (demo). Add backend later.");
-    e.target.reset();
+    const form = e.target;
+    const submitBtn = form.querySelector('button[type="submit"]');
+    const originalText = submitBtn.innerHTML;
+    
+    // Disable button and show loading state
+    submitBtn.disabled = true;
+    submitBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i><span>Sending...</span>';
+    
+    try {
+        const response = await fetch(form.action, {
+            method: form.method,
+            body: new FormData(form),
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
+        
+        if (response.ok) {
+            toast("Success!", "Message sent successfully. I'll get back to you soon!");
+            form.reset();
+        } else {
+            throw new Error("Form submission failed");
+        }
+    } catch (error) {
+        toast("Error", "Failed to send message. Please try emailing directly at ankitpandey.anp@gmail.com");
+    } finally {
+        // Re-enable button
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = originalText;
+    }
 });
 $("#clearForm").addEventListener("click", () => {
     $("#contactForm").reset();
@@ -870,7 +898,8 @@ updateClock();
 
 /* ---------------- Resume button (demo) ---------------- */
 $("#openResume").addEventListener("click", () => {
-    toast("Resume", "Replace with your PDF link / drive link.");
+    window.open("https://docs.google.com/document/d/1XeHta3bCBwfrY0lSMi5nR1weAVZnHxLBv9Z7nBJqQas/edit?usp=sharing", "_blank");
+    toast("Resume", "Opening resume in new tab");
 });
 
 /* ---------------- Magnetic buttons ---------------- */
